@@ -49,6 +49,8 @@ files/workshop-planning-worksheet.md
 
 ブラウザーで保存した2ファイルの静的な内容と構成、ZIP内の4ファイルと元データの一致を確認しています。単体HTMLをブラウザーで開いた表示・印刷レイアウト・PDF出力は検証していません。ZIPは圧縮・暗号化を行わず、CRC32は偶発的な変更を調べるための値です。ファイルの安全性や真正性を保証するものではありません。
 
+- [Verify the download pack with Node.js](GUIDE.md) — check exact bytes, read the inventory, and edit the two document formats separately (English guide; Japanese worksheet).
+
 ## 利用と開示
 
 この空欄サンプルは、ご自身のワークショップ準備のために保存・編集して使えます。実在の参加者の成果物や完成済みの講座教材ではありません。ホストされているツールのソースコードを配布・ライセンスするものではありません。
