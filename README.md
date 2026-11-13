@@ -60,3 +60,9 @@ files/workshop-planning-worksheet.md
 ## English
 
 An editable blank planner for independent workshop facilitators: three sections, six prompts and eighteen answer lines. Download the ZIP first, then choose Markdown for editing or HTML as a print draft. They are separate files and do not synchronize. The 3+9+3 minute schedule is only an example. Check content and print layout in your own environment; standalone HTML rendering and PDF output were not verified. Maker/AI assistance and optional referral advertising on the separate tool pages are disclosed above.
+
+## Try the English editor
+
+[Open the English workbook editor](https://workbook-sheet-studio-1111.crisp-llama-2628.chatgpt.site/en/?utm_source=owned_blog&utm_medium=referral) and choose **Try a fictional watercolor worksheet**. Edit the prompts, then save HTML or Markdown for your own review.
+
+The original Japanese v1.0.0 download pack above remains separate. The editor, HTML and Markdown do not automatically synchronize; check your saved content and print layout in your own environment. I maintain the editor and used AI assistance to build it. Its separate, optional Payhip referral ads may earn me a commission; no account, purchase or referral click is needed to create a worksheet.
