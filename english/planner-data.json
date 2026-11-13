@@ -1,0 +1,52 @@
+{
+  "title": "15-minute workshop planning sheet",
+  "audience": "Independent tutors and workshop facilitators. A blank example to adapt to your own topic.",
+  "instructions": "The 3+9+3 minute schedule is an editable example. Replace the prompts or write your plan in the blank space. Before sharing, check the questions, timing and print layout for your group. Keep names and other personal information out of this sheet.",
+  "sections": [
+    {
+      "title": "Audience and one small task",
+      "items": [
+        {
+          "prompt": "Who is this for? What do they already know, and what would help them take part? Describe the audience without naming individuals.",
+          "kind": "short",
+          "lines": 2
+        },
+        {
+          "prompt": "Choose one small task or thing to make. What could you see or hear that would help you check what participants tried?",
+          "kind": "short",
+          "lines": 2
+        }
+      ]
+    },
+    {
+      "title": "Preparation and session flow",
+      "items": [
+        {
+          "prompt": "What materials, information and space are needed? Who will prepare them, and what is your alternative if something is unavailable?",
+          "kind": "short",
+          "lines": 3
+        },
+        {
+          "prompt": "Opening and practice - a 3+9 minute example. What will you explain first? In what order will participants try the task, and what will the facilitator do? Adjust the timing as needed.",
+          "kind": "long",
+          "lines": 4
+        }
+      ]
+    },
+    {
+      "title": "Review and reflection",
+      "items": [
+        {
+          "prompt": "Review - a 3 minute example. Which work or result will you look at? Write a prompt that helps participants name one thing they tried and one thing they would like to try next.",
+          "kind": "long",
+          "lines": 4
+        },
+        {
+          "prompt": "Facilitator notes after the session. What did you notice about the task or timing, and what would you change next time? Leave out names and identifying details.",
+          "kind": "short",
+          "lines": 3
+        }
+      ]
+    }
+  ]
+}

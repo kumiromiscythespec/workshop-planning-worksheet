@@ -1,5 +1,9 @@
 # 15分ワークショップ計画シート
 
+> **English v1.1.0 downloads:** [One-page PDF](https://github.com/kumiromiscythespec/workshop-planning-worksheet/releases/download/v1.1.0/15-minute-workshop-planning-sheet-en.pdf) | [Editable Markdown](https://github.com/kumiromiscythespec/workshop-planning-worksheet/releases/download/v1.1.0/15-minute-workshop-planning-sheet-en.md) | [ZIP pack](https://github.com/kumiromiscythespec/workshop-planning-worksheet/releases/download/v1.1.0/15-minute-workshop-planning-pack-en.zip).
+>
+> A prepared English blank planner. The original Japanese v1.0.0 files below remain unchanged. This PDF is a separate prepared resource, rather than a direct PDF export feature of the live editor.
+
 講師・ファシリテーターが、自分のテーマに合わせて書き込む空欄の計画シートです。まず完成済みファイルを開いてから、必要な部分を編集できます。15分と3分＋9分＋3分の配分は変更できる進行例です。
 
 ## 先にファイルを開く
@@ -66,3 +70,17 @@ An editable blank planner for independent workshop facilitators: three sections,
 [Open the English workbook editor](https://workbook-sheet-studio-1111.crisp-llama-2628.chatgpt.site/en/?utm_source=owned_blog&utm_medium=referral) and choose **Try a fictional watercolor worksheet**. Edit the prompts, then save HTML or Markdown for your own review.
 
 The original Japanese v1.0.0 download pack above remains separate. The editor, HTML and Markdown do not automatically synchronize; check your saved content and print layout in your own environment. I maintain the editor and used AI assistance to build it. Its separate, optional Payhip referral ads may earn me a commission; no account, purchase or referral click is needed to create a worksheet.
+
+## English download pack - v1.1.0
+
+Plan one small workshop using three sections, six prompts and eighteen blank answer lines. The 3+9+3 minute schedule is an editable example. Adapt the audience, prompts, materials and timing yourself; no learning outcome is promised.
+
+- [Download the static one-page A4 PDF](https://github.com/kumiromiscythespec/workshop-planning-worksheet/releases/download/v1.1.0/15-minute-workshop-planning-sheet-en.pdf) for writing by hand.
+- [Download the editable Markdown](https://github.com/kumiromiscythespec/workshop-planning-worksheet/releases/download/v1.1.0/15-minute-workshop-planning-sheet-en.md), or [read it on GitHub](english/15-minute-workshop-planning-sheet-en.md).
+- [Download both files and their checksums in one ZIP](https://github.com/kumiromiscythespec/workshop-planning-worksheet/releases/download/v1.1.0/15-minute-workshop-planning-pack-en.zip).
+
+The English PDF was separately prepared with ReportLab and visually checked as a one-page A4 rendering. It has no fillable form fields. Check your own printer settings and content before sharing. PDF and Markdown are separate copies and do not synchronize. The older GUIDE.md and verify-downloads.mjs describe the original Japanese v1.0.0 pack; the English ZIP includes its own checksums.sha256.
+
+For manual authoring, [open the free English workbook editor](https://workbook-sheet-studio-1111.crisp-llama-2628.chatgpt.site/en/?utm_source=owned_blog&utm_medium=referral). It makes HTML and Markdown from your own prompts. Copy your text manually; it does not import this planner or directly export PDF. The browser tool, these files and your edited copies do not synchronize.
+
+[English file notes and optional PDF regeneration](english/README.md). I maintain this resource and used AI assistance to prepare it. Separate optional Payhip referral ads on the tool pages may earn me a commission; this pack has no referral ads, and using it requires no account, purchase or referral click. The hosted editor source is not distributed by this repository.
