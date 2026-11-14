@@ -84,3 +84,7 @@ The English PDF was separately prepared with ReportLab and visually checked as a
 For manual authoring, [open the free English workbook editor](https://workbook-sheet-studio-1111.crisp-llama-2628.chatgpt.site/en/?utm_source=owned_blog&utm_medium=referral). It makes HTML and Markdown from your own prompts. Copy your text manually; it does not import this planner or directly export PDF. The browser tool, these files and your edited copies do not synchronize.
 
 [English file notes and optional PDF regeneration](english/README.md). I maintain this resource and used AI assistance to prepare it. Separate optional Payhip referral ads on the tool pages may earn me a commission; this pack has no referral ads, and using it requires no account, purchase or referral click. The hosted editor source is not distributed by this repository.
+
+## Optional: embed an announcement-capacity check
+
+For facilitators who already have an email allowance, [copy the remaining-send iframe example](EMBED.md) into an HTTP(S) resource page you control. It checks one campaign plus reserved repeats and other sends against the balance left; it does not send email or connect an account. [Example host-page source](examples/remaining-send-balance-embed.html) is included for editors that allow iframes. This is a separate Send Budget worksheet, not an import or extension of the downloadable planning files.
